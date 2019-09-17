@@ -8,7 +8,7 @@ Lesson 1 - Sep 3<br>
 Lesson 2 - Sep 10<br>
 Lesson 3 - Sep 17<br>
 Lesson 4 - Sep 24<br>
-Lesson 5&6 - Sep 30<br>
+Lesson 5&6 - Sep 28<br>
 Lesson 7 - Oct 8<br>
 Lesson 8 - Oct 15<br>
 Lesson 9 - Oct 22<br>
