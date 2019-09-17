@@ -3,7 +3,7 @@ As an advanced level core course of the Data and Media Communication Concentrati
 
 The design and aesthetic components in the data-driven storytelling process will also be covered.  In additional to the traditional teaching learning activities, such as class demonstrations, individual assignments, collaborative projects and guest lectures, the course will also adopt the case study approach and perform reverse-engineering on classic and cutting-edged data-driven storytelling examples.  Critical reflection on the overuse and abuse of big data and relevant ethical and legal controversies will be addressed as well.  By the end of the semester, students are expected to produce a data-driven narrative project, such as, but not limited to, data-driven journalistic report, data visualization layouts, data-driven business analysis, and computational social science research reports.
 
-Updated Class Meeting Schedule:<br><br>
+Updated Class Meeting Schedule:<br>
 
 Lesson 1 - Sep 3<br>
 Lesson 2 - Sep 10<br>
