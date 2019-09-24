@@ -17,3 +17,5 @@ Lesson 10 - Oct 29<br>
 Lesson 11 - Nov 5<br>
 Lesson 12 - Nov 12<br>
 Lesson 13 - Nov 19<br>
+
+https://join.slack.com/t/jour4046/shared_invite/enQtNzU5NTcwMzI1NDc1LTE1YTczYzNkMDA1YWQyZWIxZWJhMWNiMzQyZThkOWE3ZTBkMDIxYzFiZTI0YzMzY2EyOTY2ZmQ3ODI2OWE3Yjk
